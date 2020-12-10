@@ -75,13 +75,6 @@
             </ul>
           </div>
         </div>
-
-        <div class="container">
-            <div class="section-title" data-aos="fade-left">
-            <h2>Pour parler de nous</h2>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-            </div>
-        </div>
       </div>
     </section><!-- End About Section -->
 
@@ -99,7 +92,7 @@
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">120</span>
-            <p>Hectars</p>
+            <p>Hectars exploités</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
@@ -109,7 +102,7 @@
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">15</span>
-            <p>Au total</p>
+            <p>coopératives au total</p>
           </div>
 
         </div>
@@ -124,7 +117,7 @@
         <div class="row">
           <div class="col-lg-4 d-flex align-items-stretch" data-aos="fade-right">
             <div class="content">
-              <h3>Pourquoi choisir SDK pour vos parcelle</h3>
+              <h3>Pourquoi choisir SDK & Co pour vos parcelle</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
                   </p>
@@ -136,7 +129,7 @@
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-receipt"></i>
-                    <h4>Corporis voluptates sit</h4>
+                    <h4>Suivie de coopératives</h4>
                     <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
                     <div class="text-center">
                       <a href="#" class="more-btn">Plus </a>
@@ -146,7 +139,7 @@
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
-                    <h4>Ullamco laboris ladore pan</h4>
+                    <h4>Evaluation de projet</h4>
                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
                     <div class="text-center">
                       <a href="#" class="more-btn">Plus </a>
@@ -156,7 +149,7 @@
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-images"></i>
-                    <h4>Labore consequatur</h4>
+                    <h4>Quelques exemples</h4>
                     <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
                     <div class="text-center">
                       <a href="#" class="more-btn">Plus </a>
@@ -171,33 +164,20 @@
       </div>
     </section><!-- End Why Us Section -->
 
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container">
-
-        <div class="text-center" data-aos="zoom-in">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
-        </div>
-
-      </div>
-    </section><!-- End Cta Section -->
-
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
       <div class="container">
 
-        <div class="row">
-          <div class="col-lg-4">
+        <div class="col">
+          <div class="col">
             <div class="section-title" data-aos="fade-right">
               <h2>Services</h2>
               <p>Magnam dolores commodi suscipit nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
             </div>
           </div>
-          <div class="col-lg-8">
+          <div class="col">
             <div class="row">
-              <div class="col-md-6 d-flex align-items-stretch">
+              <div class="col-md-3 d-flex align-items-stretch">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
                   <div class="icon"><i class="bx bxl-dribbble"></i></div>
                   <h4><a href="">Aubergines</a></h4>
@@ -205,7 +185,7 @@
                 </div>
               </div>
 
-              <div class="col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+              <div class="col-md-3 d-flex align-items-stretch mt-4 mt-lg-0">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
                   <div class="icon"><i class="bx bx-file"></i></div>
                   <h4><a href="">Oignon</a></h4>
@@ -213,7 +193,7 @@
                 </div>
               </div>
 
-              <div class="col-md-6 d-flex align-items-stretch mt-4">
+              <div class="col-md-3 d-flex align-items-stretch mt-4">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
                   <div class="icon"><i class="bx bx-tachometer"></i></div>
                   <h4><a href="">Piment</a></h4>
@@ -221,7 +201,7 @@
                 </div>
               </div>
 
-              <div class="col-md-6 d-flex align-items-stretch mt-4">
+              <div class="col-md-3 d-flex align-items-stretch mt-4">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="400">
                   <div class="icon"><i class="bx bx-world"></i></div>
                   <h4><a href="">Soutient aux Coopérative</a></h4>
@@ -464,17 +444,17 @@
     <section id="team" class="team">
       <div class="container">
 
-        <div class="row">
-          <div class="col-lg-4">
+        <div class="col">
+          <div class="col">
             <div class="section-title" data-aos="fade-right">
               <h2>Notre équipe</h2>
               <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem.</p>
             </div>
           </div>
-          <div class="col-lg-8">
+          <div class="col">
             <div class="row">
 
-              <div class="col-lg-6">
+              <div class="col">
                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
                   <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
                   <div class="member-info">
@@ -491,7 +471,7 @@
                 </div>
               </div>
 
-              <div class="col-lg-6 mt-4 mt-lg-0">
+              <div class="col mt-4 mt-lg-0">
                 <div class="member" data-aos="zoom-in" data-aos-delay="200">
                   <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
                   <div class="member-info">
@@ -508,7 +488,7 @@
                 </div>
               </div>
 
-              <div class="col-lg-6 mt-4">
+              <div class="col mt-4">
                 <div class="member" data-aos="zoom-in" data-aos-delay="300">
                   <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
                   <div class="member-info">
@@ -524,26 +504,7 @@
                   </div>
                 </div>
               </div>
-
-              <div class="col-lg-6 mt-4">
-                <div class="member" data-aos="zoom-in" data-aos-delay="400">
-                  <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
-                  <div class="member-info">
-                    <h4>Amanda Jepson</h4>
-                    <span>Accountant</span>
-                    <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                    <div class="social">
-                      <a href=""><i class="ri-twitter-fill"></i></a>
-                      <a href=""><i class="ri-facebook-fill"></i></a>
-                      <a href=""><i class="ri-instagram-fill"></i></a>
-                      <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
             </div>
-
           </div>
         </div>
 
@@ -553,30 +514,33 @@
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container">
-        <div class="row">
-          <div class="col-lg-4" data-aos="fade-right">
+        <div class="col">
+          <div class="col" data-aos="fade-right">
             <div class="section-title">
               <h2>Contacts</h2>
               <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem..</p>
             </div>
           </div>
 
-          <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
+          <div class="col" data-aos="fade-up" data-aos-delay="100">
             {{-- <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/place/INVESTIV+C%C3%94TE+D'IVOIRE/@5.2885072,-3.9759344,17z/data=!3m1!4b1!4m5!3m4!1s0xfc1eb605c7cd4ff:0xaa3a0df17575f6bb!8m2!3d5.2885072!4d-3.9737457" frameborder="0" allowfullscreen></iframe> --}}
-            <div class="info mt-4">
-              <i class="icofont-google-map"></i>
-              <h4>Localisation:</h4>
-              <p>Boulevard Du Pro, Residenciel, Maison n°14</p>
-            </div>
+
             <div class="row">
-              <div class="col-lg-6 mt-4">
+              <div class="col-lg-4 mt-4">
+                <div class="info">
+                  <i class="icofont-google-map"></i>
+                  <h4>Localisation:</h4>
+                  <p>Boulevard Du Pro, Allée 32</p>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-4">
                 <div class="info">
                   <i class="icofont-envelope"></i>
                   <h4>Email:</h4>
                   <p>info@example.com</p>
                 </div>
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-4">
                 <div class="info w-100 mt-4">
                   <i class="icofont-phone"></i>
                   <h4>Télephone:</h4>
@@ -621,15 +585,20 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
+    <section id="cta" class="cta">
+      <div class="container">
 
+        <div class="text-center" data-aos="zoom-in">
+          <h3>Nos principes</h3>
+          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
     <div class="container d-md-flex py-4">
-
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
-          &copy; Copyright <strong><span>Bethany</span></strong>. All Rights Reserved
-        </div>
-        <div class="credits">
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          &copy; Copyright <strong><span>SDK & Co</span></strong>. Tous droits reservés
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
