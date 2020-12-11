@@ -37,6 +37,22 @@ Route::get('/services', function () {
     return view('pages.services');
 })->name('services');
 
+Route::get('/services/aubergine', function () {
+    return view('pages.services.aubergine');
+})->name('aubergine');
+
+Route::get('/services/accompagnement', function () {
+    return view('pages.services.accompagnement');
+})->name('accompagnement-coopérative');
+
+Route::get('/services/oignon', function () {
+    return view('pages.services.oignon');
+})->name('oignon');
+
+Route::get('/services/piment', function () {
+    return view('pages.services.piment');
+})->name('piment');
+
 Route::get('/notre-equipe', function () {
     return view('pages.team');
 })->name('notre-equipe');

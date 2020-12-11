@@ -3,7 +3,7 @@
     <div class="container">
       <div class="header-container d-flex align-items-center">
         <div class="logo mr-auto">
-          <h1 class="text-light"><a href="index.html"><span>SDK & Co</span></a></h1>
+          <h1 class="text-light"><a href="{{ route('accueil') }}"><span>SDK & Co</span></a></h1>
           <!-- Uncomment below if you prefer to use an image logo -->
           <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
         </div>
@@ -12,7 +12,14 @@
           <ul>
           <li class="active"><a href="{{ route('accueil') }}">Accueil</a></li>
             <li><a href=" {{ route('A-propos') }} ">A Propos</a></li>
-            <li><a href=" {{ route('services') }} ">Nos Services</a></li>
+            <li class="drop-down"><a href=" {{ route('services') }} ">Nos services</a>
+              <ul>
+                <li><a href=" {{ route('aubergine') }} ">Aubergine</a>
+                <li><a href=" {{ route('piment') }} ">Piment bicson</a></li>
+                <li><a href=" {{ route('oignon') }} ">Oignon rouge</a></li>
+                <li><a href=" {{ route('accompagnement-coopérative') }} ">Accompagnement agricole</a></li>
+              </ul>
+            </li>
             <li><a href=" {{ route('notre-equipe') }} ">Notre équipe</a></li>
             <li><a href=" {{ route('clients') }} ">Nos clients</a></li>
             <li><a href=" {{ route('galerie') }} ">Galeries</a></li>
