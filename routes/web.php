@@ -56,3 +56,7 @@ Route::get('/services/piment', function () {
 Route::get('/notre-equipe', function () {
     return view('pages.team');
 })->name('notre-equipe');
+
+Route::get('/test', function ($id) {
+    return 'Juste un test';
+});
